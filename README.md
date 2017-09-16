@@ -1,5 +1,19 @@
 # 03-Branching-plot-novel
 
+Join King Arthur on his quest to cross The Bridge of Death in order to retrieve the fabled Holy Grail!
+Can you pass the Bridgekeeper's test? 
+Can you survive? 
+Will you learn of the Bridgekeeper's favorite comedians and reenact their most famous sketch?
+Discover the answers to all this and more in -- *THE BRIDGE OF DEATH*
+
+--------------------------------------------
+
+In all seriousness though, it's a "branching-plot novel" that lets you reenact two of the best comedy sketches of all
+time. It utilizes functions, user input, and a dictionary.
+
+--------------------------------------------
+
+
 Choose your adventure! This is the third programming assignment for ILS-Z399. The requirements for this assignment are as follows:
 
 * Write a Python program for playing a simple "branching-plot novel" game
